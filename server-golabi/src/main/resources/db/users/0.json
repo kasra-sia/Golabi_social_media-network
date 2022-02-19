@@ -1,0 +1,31 @@
+{
+  "reportCounter" : [ ],
+  "username" : "a",
+  "password" : "a",
+  "profile" : {
+    "reportCounter" : [ ],
+    "firstName" : "a",
+    "lastName" : "a",
+    "email" : "a",
+    "bio" : "",
+    "birthday" : null,
+    "phoneNumber" : "",
+    "lastSeen" : "EVERYONE",
+    "lastSeenTime" : "22/08/2021 05:13:23",
+    "systemNotifications" : [ {
+      "text" : "@b followed you",
+      "time" : "22/08/2021 02:10:51"
+    } ],
+    "following" : [ ],
+    "followers" : [ 1, 1 ],
+    "blacklist" : [ ],
+    "muteList" : [ ],
+    "private" : true,
+    "active" : false,
+    "sentRequest" : [ ],
+    "receivedRequest" : [ ],
+    "id" : 0
+  },
+  "userStatus" : "OFFLINE",
+  "id" : 0
+}
