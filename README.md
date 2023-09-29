@@ -6,8 +6,8 @@ Complete social media +network +GUI +clean code - Phase 3(final phase) of my pro
 - [Chatting](#chatting)
 - [Posting](#posting)
 - [Tweeting](#tweeting)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Getting Started](#getting-started)
 
 
 ## Introduction
