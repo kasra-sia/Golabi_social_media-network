@@ -1,8 +1,5 @@
 # Golabi Social Media 
 Complete social media +network +GUI +clean code - Phase 3(final phase) of my project for Advance programming course in Sharif University of Technology
-<br> 
-<br> 
-Golabi is a versatile social media platform that combines the best features of popular platforms like Twitter, Instagram, and Telegram. It offers a seamless experience for users to connect, communicate, and share content. This README will dive into three core features of Golabi: Chatting, Posting, and Tweeting.
 
 ## Table of Contents
 - [introdution](#introduction)
